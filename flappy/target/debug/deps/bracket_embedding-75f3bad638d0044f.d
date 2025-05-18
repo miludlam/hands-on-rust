@@ -1,0 +1,8 @@
+/Users/mludlam/Dev/workspace/github/HandsOnRust/hands-on-rust/flappy/target/debug/deps/libbracket_embedding-75f3bad638d0044f.rmeta: /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/mludlam/Dev/workspace/github/HandsOnRust/hands-on-rust/flappy/target/debug/deps/bracket_embedding-75f3bad638d0044f.d: /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs:
+/Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs:
+/Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png:
+/Users/mludlam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png:
