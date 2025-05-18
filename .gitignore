@@ -1,0 +1,6 @@
+# JetBrains project files
+.idea
+
+# Cargo generated directories & files
+target/
+debug/
